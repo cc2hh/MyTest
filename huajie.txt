@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 nishi sa da 
 
 dhakj dkjh as kdjh k
 delete my word
+=======
+你的是爱看了看
+>>>>>>> master
