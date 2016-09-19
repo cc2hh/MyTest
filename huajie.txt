@@ -1,4 +1,5 @@
 dhakj dkjh as kdjh k
 delete m
 git 1.7的版本的vim编辑模式不能输入中文字符，会发生乱码，应该是之前版本不支持
+阿三
 
